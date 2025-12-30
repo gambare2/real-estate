@@ -1,0 +1,41 @@
+/* primare color  */
+:root {
+    --blue-50:  #eef6ff;
+    --blue-100: #dbeafe;
+    --blue-200: #bfdbfe;
+    --blue-300: #93c5fd;
+    --blue-400: #60a5fa;
+    --blue-500: #3b82f6; 
+    --blue-600: #2563eb;
+    --blue-700: #1d4ed8;
+    --blue-800: #1e40af;
+    --blue-900: #1e3a8a;
+  
+    --color-primary: var(--blue-600);
+    --color-primary-hover: var(--blue-700);
+    --color-primary-light: var(--blue-100);
+  
+    --color-secondary: var(--blue-500);
+    --color-accent: var(--blue-400);
+  
+    /* background color  */
+    --bg-page: #ffffff;
+    --bg-section: var(--blue-50);
+    --bg-card: #ffffff;
+  
+    /*  Text Colors */
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-muted: #64748b;
+    --text-inverse: #ffffff;
+  
+    /*  BORDER & UI  */
+    --border-light: #e2e8f0;
+    --border-primary: var(--blue-200);
+  
+    /*  STATUS COLORS */
+    --success: #16a34a;
+    --warning: #f59e0b;
+    --error: #dc2626;
+  }
+  
